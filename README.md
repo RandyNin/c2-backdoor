@@ -112,6 +112,8 @@ self.send_email(
 - Python **3.10+**
     
 - `requests` library (for Windows Firefox functionality)
+- 
+-  `termcolor` library (for terminal color display)
     
 
 ---
